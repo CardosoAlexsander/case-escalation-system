@@ -108,6 +108,25 @@ A aplicação possui Test Class cobrindo:
 - Validação de Task duplicada
 
 ---
+# 📸 Screenshots
+
+## Trigger Apex
+
+![Trigger](screenshots/trigger.png)
+
+---
+
+## Service Layer
+
+![Service](screenshots/class.png)
+
+---
+
+## Test Class
+
+![Test](screenshots/test-class.png)
+
+---
 
 # 🚀 Aprendizados
 
